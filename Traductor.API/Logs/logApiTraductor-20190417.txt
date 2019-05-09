@@ -1,0 +1,47 @@
+2019-04-17 15:00:46.676 -05:00 [INF] Inicio del metodo StartAsync 
+2019-04-17 15:00:46.795 -05:00 [INF] Inicio del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:00:46.798 -05:00 [INF] Fin del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:00:46.806 -05:00 [INF] Inicio del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:00:46.810 -05:00 [INF] Fin del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:00:46.812 -05:00 [INF] Inicio del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:00:46.815 -05:00 [INF] Fin del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:00:46.820 -05:00 [INF] Inicio del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:00:46.850 -05:00 [INF] Fin del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:00:46.875 -05:00 [INF] Fin del metodo StartAsync 
+2019-04-17 15:00:46.883 -05:00 [INF] * Se ejecutó la inicialización de la operación.
+2019-04-17 15:00:50.048 -05:00 [INF] * Se realizó una petición a la obtención de la operación. 
+ [{"NombreTarea":"Tarea CrearColasDispositivos","EstadoEjecucion":"Detenida","FechaSolicitud":"2019-04-17T15:00:50.0478737-05:00"},{"NombreTarea":"Tarea DispositivosBorde_A_SistemaCentral","EstadoEjecucion":"Corriendo","FechaSolicitud":"2019-04-17T15:00:50.0486326-05:00"},{"NombreTarea":"Tarea SistemaCentral_A_DispositivosBorde","EstadoEjecucion":"Corriendo","FechaSolicitud":"2019-04-17T15:00:50.048654-05:00"}]
+2019-04-17 15:04:45.794 -05:00 [INF] * Se realizó una petición a la obtención de la operación. 
+ * No hay tareas en ejecución: instancia de _backgroundTask.EstadoTareasEjecucion==null.
+2019-04-17 15:04:49.230 -05:00 [INF] Inicio del metodo StartAsync 
+2019-04-17 15:04:49.232 -05:00 [INF] Inicio del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:04:49.232 -05:00 [INF] Fin del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:04:49.236 -05:00 [INF] Inicio del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:04:49.239 -05:00 [INF] Fin del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:04:49.240 -05:00 [INF] Inicio del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:04:49.240 -05:00 [INF] Fin del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:04:49.241 -05:00 [INF] Inicio del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:04:49.243 -05:00 [INF] Fin del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:04:49.243 -05:00 [INF] Fin del metodo StartAsync 
+2019-04-17 15:04:49.243 -05:00 [INF] * Se ejecutó la inicialización de la operación.
+2019-04-17 15:04:52.789 -05:00 [INF] * Se realizó una petición a la obtención de la operación. 
+ [{"NombreTarea":"Tarea CrearColasDispositivos","EstadoEjecucion":"Detenida","FechaSolicitud":"2019-04-17T15:04:52.7891355-05:00"},{"NombreTarea":"Tarea DispositivosBorde_A_SistemaCentral","EstadoEjecucion":"Corriendo","FechaSolicitud":"2019-04-17T15:04:52.7893354-05:00"},{"NombreTarea":"Tarea SistemaCentral_A_DispositivosBorde","EstadoEjecucion":"Corriendo","FechaSolicitud":"2019-04-17T15:04:52.7893591-05:00"}]
+2019-04-17 15:20:35.050 -05:00 [INF] Inicio del metodo StopAsync 
+2019-04-17 15:20:35.050 -05:00 [INF] Fin del metodo StopAsync 
+2019-04-17 15:20:35.050 -05:00 [INF] * Se ejecutó la detención de la operación.
+2019-04-17 15:21:38.292 -05:00 [INF] Inicio del metodo StartAsync 
+2019-04-17 15:21:38.292 -05:00 [INF] Inicio del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:21:38.293 -05:00 [INF] Fin del metodo ObtenerEstadoGeneralTareasEjecucion 
+2019-04-17 15:21:38.294 -05:00 [INF] Inicio del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:21:38.294 -05:00 [INF] Fin del metodo IniciarTareaCrearColasDispositivos 
+2019-04-17 15:21:38.294 -05:00 [INF] Inicio del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:21:38.294 -05:00 [INF] Fin del metodo IniciarTareaDispositivosBorde_A_SistemaCentral 
+2019-04-17 15:21:38.294 -05:00 [INF] Inicio del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:21:38.294 -05:00 [INF] Fin del metodo IniciarTareaSistemaCentral_A_DispositivosBorde 
+2019-04-17 15:21:38.294 -05:00 [INF] Fin del metodo StartAsync 
+2019-04-17 15:21:38.294 -05:00 [INF] * Se ejecutó la inicialización de la operación.
+2019-04-17 15:21:38.299 -05:00 [ERR] Se presentó un error en la ejecución del metodo RecibirMensajeActiveMQAsync : queue://OpenFec_1_FEC_01_queue_SinCifrar 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Apache.NMS.Util.SessionUtil.GetDestination(ISession session, String destinationName, DestinationType defaultType)
+   at Apache.NMS.Util.SessionUtil.GetDestination(ISession session, String destinationName)
+   at Traductor.API.Aplicacion.ServiciosAplicacion.ReceptorNMS.TareaRecibirMensajesActiveMQAsync(CancellationToken stoppingToken, List`1 queueNameOrigenes, DireccionMensaje direccion, TipoConversionMensaje tipo) in C:\SVN\METRO\MikroCivica\MikroCivicaBranches\MikroCivicaRQ182\Traductor.API\Aplicacion\ServiciosAplicacion\ActiveMQ\ReceptorNMS.cs:line 79
