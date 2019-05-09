@@ -1,1 +1,1 @@
-# slnTraductor.API
+Aplicación NetCore2.2.
